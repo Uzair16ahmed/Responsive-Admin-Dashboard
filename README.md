@@ -1,5 +1,5 @@
 # Responsive-Admin-Dashboard
-# Responsive Admin Dashboard Using HTML CSS &amp; JavaScript with Light &amp; Dark Mode
+Responsive Admin Dashboard Using HTML CSS &amp; JavaScript with Light &amp; Dark Mode
 # snip of dashboard
 
 snip_of_dashboard.PNG
